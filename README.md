@@ -3,6 +3,7 @@ For Final Exam but dev 4 future project
 
 ###Node-red structure:
 ![Screenshot 2024-06-17 154733](https://github.com/NakiTomori/IoT_Final_Exam/assets/91220195/2b1ba89d-61dc-4ed0-a2ca-d67c71b5a0f6)
+![Screenshot 2024-06-17 161121](https://github.com/NakiTomori/IoT_Final_Exam/assets/91220195/62a3860a-306b-4e82-963f-8105ebb48ae0)
 
 ###Reference:
 +) Tạo web để connect với esp32: (NodeMCU)
