@@ -1,0 +1,10 @@
+Đầu tiên là phải:
+cd \Program Files\mosquitto
+
+Dùng 2 cmd để truyền tải thông tin và Nghe ngóng thông tin (Test qua cmd xem mosquito có hoạt động không)
+
+cmd cho sub:
+mosquitto_sub -t test_sensor_data -h localhost
+
+cmd cho pub:
+mosquitto_pub -t test_sensor_data -h localhost -m "temp:200"
